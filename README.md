@@ -147,4 +147,4 @@ python zoom_and_combine.py
 ## 4. Contact  
 If you have any question or suggestion, feel free to contact us:  
 - [**Chi-Mao Fan**](https://github.com/FanChiMao): qaz5517359@gmail.com  
-- [**X-X X**](https://github.com/bobo0303): wiwi61666166@gmail.com  
+- [**Bo-Wei Chen**](https://github.com/bobo0303): wiwi61666166@gmail.com  
