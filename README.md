@@ -85,7 +85,7 @@ python zoom_and_combine.py
     ```
     </details>  
 
-    <img src="https://i.imgur.com/RpDMSby.png" alt="noise2" width="800" style="zoom:100%;" />
+    <img src="https://i.imgur.com/RpDMSby.png" alt="noise2" width="600" style="zoom:100%;" />
 
 
 - Example result 3:
@@ -142,7 +142,7 @@ python zoom_and_combine.py
     ```
     </details>  
 
-    <img src="https://i.imgur.com/Oj5pzml.png" width="800" style="zoom:100%;" />
+    <img src="https://i.imgur.com/Oj5pzml.png" width="600" style="zoom:100%;" />
 
 ## 4. Contact  
 If you have any question or suggestion, feel free to contact us:  
