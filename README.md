@@ -4,7 +4,7 @@
 Place the images you want to process in [./imgs](imgs).  
 
 ## 2. Run
-After placing the images, check the [**config.yaml**]().
+After placing the images, check the [**config.yaml**](./config.yaml).
 ```
 ###############
 IMG:
